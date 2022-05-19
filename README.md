@@ -1,5 +1,5 @@
 # 👋 Hello! I’m ChihoonJung
-<p>Welcome my page.!</p>
+<p>Welcome my page!</p>
 <p>👨‍💻 I’m Backend Developer.</p>
 <p>🏢 Currently, I am working as a project leader at Aegisecu.</p>
 <p>🇰🇷 I live in Seoul, Korea now.</p>
