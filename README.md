@@ -5,16 +5,18 @@
 <p>🇰🇷 I live in Seoul, Korea now.</p>
 
 ## 👀 My skill is
-- <span>&#128187;</span> Experienced : 
-![HTML5](https://img.shields.io/badge/-HTML5-lightgrey?style=flat&logo=html5&logoColor=white)
+- Mainly used : 
 ![JavaScript](https://img.shields.io/badge/-Javascript-yellow?style=flat&logo=JavaScript&color=yellow)
 ![NodeJs](https://img.shields.io/badge/-NodeJS-green?style=flat&logo=Node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=Mysql&logoColor=white)
+
+- Experienced : 
+![HTML5](https://img.shields.io/badge/-HTML5-lightgrey?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-royalblue?style=flat&logo=CSS3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-darkslategray?style=flat&logo=React&logoColor=lightskyblue)
 
-
-- <span>&#128187;</span> Experienced : Javascript, HTML, CSS, MySQL, NodeJs, React
 - <span>&#128152;</span> Interested : MSA, Redis
+![Redis](https://img.shields.io/badge/-Redis-crimson?style=flat&logo=Redis&logoColor=white)
 - <span>&#128214;</span> Learning : TypeScript
 
 - 🌱
