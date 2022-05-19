@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/-Javascript-yellow?style=flat&logo=JavaScript&color=yellow)
 ![NodeJs](https://img.shields.io/badge/-NodeJS-green?style=flat&logo=Node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=Mysql&logoColor=white)
-![React](https://img.shields.io/badge/-React-lightblue?style=flat&logo=React&logoColor=white)
+![React](https://img.shields.io/badge/-React-darkslategray?style=flat&logo=React&logoColor=lightskyblue)
 
 
 - <span>&#128187;</span> Experienced : Javascript, HTML, CSS, MySQL, NodeJs, React
